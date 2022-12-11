@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
         else{
             int number1 = Integer.parseInt(number1Text.getText().toString());
             int number2 = Integer.parseInt(number2Text.getText().toString());
-            asfmşkasfşasfnas
 
             int result = number1+number2;
             resultText.setText("Result : "+result);
